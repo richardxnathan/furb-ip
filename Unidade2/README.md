@@ -1,3 +1,5 @@
+[Questionário 2]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Questionário 2"  
+
 # Introdução à Programação - Unidade 2
 
 Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
@@ -67,7 +69,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 
 ### Exercícios
 
-- Responda o quiz no AVA3​.  
+- Responda o quiz no AVA3: [Questionário 2]​.  
 - Acompanhe os exercício em sala​.  
 
 ----------
@@ -185,7 +187,7 @@ Videoaula_2_1 (16:19): [<https://web.microsoftstream.com/video/b74928f9-3000-4c4
 
 ### Exercícios - parte 2
 
-- Responda o quiz no AVA3​.  
+- Responda o quiz no AVA3: [Questionário 2]​.  
 - Acompanhe os exercício em sala​.  
 
 ----------
