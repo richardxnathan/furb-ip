@@ -1,4 +1,4 @@
-[Questionario1]: <https://ava3.furb.br/mod/quiz/view.php?id=820666> "Questionário 1"  
+[Questionário 1]: <https://ava3.furb.br/mod/quiz/view.php?id=820666> "Questionário 1"  
 
 # Introdução à Programação - Unidade 1
 
@@ -35,7 +35,7 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
 
 ### Exercícios - parte 1
 
-- Responda o quiz no AVA3​: [Questionario1].  
+- Responda o quiz no AVA3​: [Questionário 1].  
 - Acompanhe os exercício em sala​.  
 
 ----------
@@ -142,7 +142,7 @@ Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
 
 ### Exercícios - parte 2  
 
-- Responda o quiz no AVA3​.  
+- Responda o quiz no AVA3​: [Questionário 1].  
 - Acompanhe os exercício em sala​.  
 
 ----------
