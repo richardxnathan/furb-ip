@@ -4,7 +4,8 @@
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
 [Plano de Ensino - AVA]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino - AVA"  
-[Apresentação do Professor]: <[Title](https://github.com/dalton-reis/dalton-reis)> "Apresentação do Professor"  
+[Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
+[Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 
 # Algumas anotações das aulas
 
@@ -46,7 +47,7 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - links gerais de toda a disciplina
   - cronograma: divisão das unidades, qual conteúdo, prazos de entrega
   - repositório: todo o conteúdo da disciplina e os exercícios das atividades práticas
-  - [horário da monitória](https://github.com/dalton-reis/dalton-reis/tree/main/_._/Monitores)  
+  - horário da monitória: [Monitoria]  
 
 ### Unidade 1
 
