@@ -1,6 +1,6 @@
 <!-- [@]TODO:INICIO atualizar -->
 [AVA3]: <https://ava3.furb.br/course/view.php?id=36814&section=0> "AVA3"  
-[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino - AVA"  
+[Plano de Ensino - AVA]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino - AVA"  
 [Prova de Suficiência (inscrição)]: <> "Prova de Suficiência (inscrição)"
 <!-- [Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams" -->  
 <!-- [Gravações das aulas]: <https://furb.sharepoint.com/:f:/t/CMP0166000220221/EryHg9vME5hDmjeRKi_LWrEBQytSxR7iESE2Mm2CgyqEiQ?e=Jk4Vfl> "Gravações das aulas" -->
@@ -22,7 +22,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 ## Links
 
 [AVA3]  
-[PlanoEnsinoAVA]  
+[Plano de Ensino - AVA]  
 [Prova de Suficiência (inscrição)]  
 <!-- [Aulas MS-Teams]  -->
 <!-- [Gravações das aulas]  -->
