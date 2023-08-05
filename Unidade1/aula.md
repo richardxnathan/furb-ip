@@ -3,7 +3,7 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
-[Plano de Ensino - AVA]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino - AVA"  
+[Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
 [Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 
@@ -30,7 +30,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## [Apresentação do Professor]
 
-## [Plano de Ensino - AVA]
+## [Plano de Ensino]
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
