@@ -2,7 +2,7 @@
 
 # Introdução à Programação - Unidade 2
 
-Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
+Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aula.md")  
 
 ## Construção de Algoritmos - parte 1
 

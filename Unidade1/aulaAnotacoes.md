@@ -16,9 +16,7 @@ Mensagem "do dia", do programador ...
 
 ## Rabiscos
 
-![Rabiscos](rabiscos.drawio.svg)
-
-Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para quem quiser o Draw.io pode ser instalado no Windows/MacOS/Linux, ou mesmo usando direto no navegador em: [https://app.diagrams.net/](https://app.diagrams.net/ "https://app.diagrams.net/"). Ou ainda usando uma versão com um layout de writeboard [https://sketch.diagrams.net/](https://sketch.diagrams.net/ "https://sketch.diagrams.net/").  
+![aulaRabiscos](aulaRabiscos.drawio.svg)
 
 ## Introdução à Programação - Unidade 1
 

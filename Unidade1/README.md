@@ -2,7 +2,7 @@
 
 # Introdução à Programação - Unidade 1
 
-Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")
+Algumas anotações feitas na aula: [aulaAnotacoes](./aulaAnotacoes "aulaAnotacoes")
 
 ## Fundamentos da Programação de Computadores - parte 1
 
