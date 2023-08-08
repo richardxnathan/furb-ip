@@ -4,6 +4,7 @@
 [Cronograma]: <./cronograma.md> "Cronograma"  
 [Monitoria]: <https://www.icloud.com/numbers/0142PvlEw-sR0vCFRJRWTU24Q#Monitores> "Monitoria"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/3BD3DgMu8L> "Prova de Suficiência (inscrição)"
+[Ambiente de Desenvolvimento Prático]: <Unidade1/IDE.md> "Ambiente de Desenvolvimento Prático"  
 
 # Disciplina de Introdução à Programação
 
@@ -37,6 +38,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 [Cronograma]  
 [Monitoria]  
 [Prova de Suficiência (inscrição)]  
+[Ambiente de Desenvolvimento Prático]  
 
 **Prazos**: geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de enviou que foi definido no post do AVA3 para aquela atividade.
 
