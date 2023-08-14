@@ -3,8 +3,8 @@
 
 [Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Unidade2_Questionário"
 
-[Unidade3_Questionário]: <> "Unidade3_Questionário"
-[Unidade3_RespostasAtividadeAula]: <> "Unidade3_RespostasAtividadeAula"
+[Unidade3_Questionário]: <[Title](https://ava3.furb.br/mod/quiz/view.php?id=820661)> "Unidade3_Questionário"
+[Unidade3_RespostasAtividadeAula]: <[Title](https://ava3.furb.br/mod/assign/view.php?id=820662)> "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: <> "Unidade3_RespostasAtividadeURI"
 
 [Unidade4_Questionário]: <> "Unidade4_Questionário"
@@ -142,10 +142,10 @@ Fontes: [src](Unidade3/src "src")
   
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:  30-08-2023 quarta-feira
   
-- [atividadeUri](Unidade3/atividadeUri.md "atividadeUri");  
-- [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula");  
+- [Unidade3_RespostasAtividadeAula];  
+- [Unidade3_RespostasAtividadeURI];  
 - assistir a videoaula da Unidade4.  
-<!-- Responder o [Unidade4_Questionário]  FIXME: fazer um questionário para unidade4 -->  
+<!-- - responder o [Unidade4_Questionário]. FIXME: fazer um questionário para unidade4 -->  
   
 -----------  
   
@@ -207,8 +207,8 @@ Feriado: Independência
   
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:  20-09-2023 quarta-feira
   
-- [atividadeUri](Unidade4/atividadeUri.md "atividadeUri");  
-- [atividadeAula](Unidade4/atividadeaulaAnotacoes.md "atividadeAula").  
+- [Unidade4_RespostasAtividadeAula];
+- [Unidade4_RespostasAtividadeURI].
 <!-- - liberar exercícios unidade 3 e 4.  -->  
   
 -----------  
@@ -233,6 +233,8 @@ Feriado: Independência
 ### [Aula_25](Unidade5/aulaAnotacoes.md#Aula_25 " 28-09-2023 quinta-feira ") 28-09-2023 quinta-feira
   
 - correção Prova1  
+[Prova1_Respostas_parteA]  
+
 - **liberar material** da próxima unidade (5).  
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->  
   
