@@ -14,11 +14,12 @@ peço que iniciem aula de hoje trabalhando na atividade da Unidade 2.
 
 Lembrem, que em caso de dúvida consultem o material disponível nas unidades:
 
+[Atividade - unidade 2](Unidade2/atividadeAula.md)  
+
 [Unidade1](Unidade1/README.md)  
 [Unidade1 anotações](Unidade1/aulaAnotacoes.md)  
 [Unidade2](Unidade2/README.md)  
 [Unidade2 anotações](Unidade2/aulaAnotacoes.md)  
 
-## [Atividade - unidade 2](Unidade2/atividadeAula.md)  
 
 ## [README](READMEcopy.md)  
