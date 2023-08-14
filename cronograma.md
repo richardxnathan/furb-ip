@@ -3,8 +3,8 @@
 
 [Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Unidade2_Questionário"
 
-[Unidade3_Questionário]: <[Title](https://ava3.furb.br/mod/quiz/view.php?id=820661)> "Unidade3_Questionário"
-[Unidade3_RespostasAtividadeAula]: <[Title](https://ava3.furb.br/mod/assign/view.php?id=820662)> "Unidade3_RespostasAtividadeAula"
+[Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820661> "Unidade3_Questionário"
+[Unidade3_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820662> "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: <> "Unidade3_RespostasAtividadeURI"
 
 [Unidade4_Questionário]: <> "Unidade4_Questionário"
