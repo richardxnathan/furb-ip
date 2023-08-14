@@ -20,3 +20,5 @@ Lembrem, que em caso de dúvida consultem o material disponível nas unidades:
 [Unidade2 anotações](Unidade2/aulaAnotacoes.md)  
 
 ## Atividade](Unidade2/atividadeAula.md)  
+
+## [README](READMEcopy.md)  
