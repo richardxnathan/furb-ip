@@ -7,7 +7,6 @@ public class Uni3Exe01 {
     double altura;
     double largura;
     double area;
-    int areaInt;
 
     // Entrada
     System.out.print("Altura: ");
