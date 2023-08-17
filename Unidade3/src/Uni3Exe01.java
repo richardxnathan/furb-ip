@@ -1,43 +1,19 @@
-/*
-Uma imobiliária vende apenas terrenos retangulares. 
-Faça um programa para ler as dimensões de um 
-terreno e depois exibir a área do terreno.
----
-altura: 10
-largura: 2
-area: 20
-
-altura: 3
-largura: 7
-area: 21
-
-Entrada
-Ler(altura)
-Ler(largura)
-
-Processo
-Area = altura x largura
-
-Saída
-Imprimir(area)
-
-*/
-
 import java.util.Scanner;
 
 public class Uni3Exe01 {
   public static void main(String[] args) {
     // Dados
     Scanner teclado = new Scanner(System.in);
-    int altura;
-    int largura;
-    int area;
+    double altura;
+    double largura;
+    double area;
+    int areaInt;
 
     // Entrada
     System.out.print("Altura: ");
-    altura = teclado.nextInt();
+    altura = teclado.nextDouble();
     System.out.print("Largura: ");
-    largura = teclado.nextInt();
+    largura = teclado.nextDouble();
 
     // Processo
     area = altura * largura;
