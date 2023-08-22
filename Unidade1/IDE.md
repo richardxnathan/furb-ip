@@ -64,6 +64,10 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 
 - este texto é a mensagem que foi definida no programa "App.java" para ser escrito para o usuário … e … meus parabéns, já tens o PRIMEIRO programa em Java 😉.
 
+## VSCode Inlay Hints
+
+[VSCode: Inlay hints](vscodeInlayHints.md)  
+
 ## Ambiente de Desenvolvimento Versão Web
 
 [https://vscode.dev/](<https://vscode.dev/>)  
