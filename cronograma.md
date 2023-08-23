@@ -5,7 +5,7 @@
 
 [Unidade3_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820661> "Unidade3_Questionário"
 [Unidade3_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820662> "Unidade3_RespostasAtividadeAula"
-[Unidade3_RespostasAtividadeURI]: <> "Unidade3_RespostasAtividadeURI"
+[Unidade3_RespostasAtividadeURI]: <[Title](https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403)> "Unidade3_RespostasAtividadeURI"
 
 [Unidade4_Questionário]: <> "Unidade4_Questionário"
 [Unidade4_RespostasAtividadeAula]: <> "Unidade4_RespostasAtividadeAula"
@@ -113,24 +113,24 @@ Fontes: [src](Unidade3/src "src")
 ### [Aula_08](Unidade3/aulaAnotacoes.md#Aula_08 " 21-08-2023 segunda-feira ") 21-08-2023 segunda-feira
   
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
 <!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
 ### [Aula_09](Unidade3/aulaAnotacoes.md#Aula_09 " 21-08-2023 segunda-feira ") 21-08-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
 <!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
   
 ### [Aula_10](Unidade3/aulaAnotacoes.md#Aula_10 " 24-08-2023 quinta-feira ") 24-08-2023 quinta-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
   
 ### [Aula_11](Unidade3/aulaAnotacoes.md#Aula_11 " 28-08-2023 segunda-feira ") 28-08-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
 <!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
 - **liberar material** da próxima unidade (4).  
 <!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
@@ -138,7 +138,7 @@ Fontes: [src](Unidade3/src "src")
 ### [Aula_12](Unidade3/aulaAnotacoes.md#Aula_12 " 28-08-2023 segunda-feira ") 28-08-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeAula](Unidade3/atividadeaulaAnotacoes.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
   
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades") Prazo:  30-08-2023 quarta-feira
   
