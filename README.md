@@ -1,4 +1,4 @@
-<!-- [@]TODO:INICIO atualizar -->
+<!-- [@] INICIO atualizar -->
 [AVA3]: <https://ava3.furb.br/course/view.php?id=36814&section=0> "AVA3"  
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
 [Cronograma]: <./cronograma.md> "Cronograma"  

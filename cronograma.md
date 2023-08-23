@@ -1,4 +1,4 @@
-<!-- [@]TODO:INICIO atualizar -->
+<!-- [@] INICIO atualizar -->
 [Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820666> "Unidade1_Questionário"
 
 [Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Unidade2_Questionário"
@@ -35,7 +35,7 @@
 Local: S-415  
 Dia da semana: Segundas (18:30\~22:00)  Quintas (18:30\~20:10)
   
-<!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
+<!-- [@] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
 ## [Unidade1](Unidade1 "Unidade1")  
   
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -51,7 +51,7 @@ Fontes: [src](Unidade1/src "src")
 - horário do monitor.  
 --  
 - **liberar material** das unidades 1 e 2.  
-<!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
+<!-- [@] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
 ### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 07-08-2023 segunda-feira ") 07-08-2023 segunda-feira
@@ -88,7 +88,7 @@ Fontes: [src](Unidade2/src "src")
   
 - método de resolução de algoritmos;  
 - **liberar material** da próxima unidade (3).  
-<!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->  
+<!-- [@] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->  
   
 ### [Aula_06](Unidade2/aulaAnotacoes.md#Aula_06 " 14-08-2023 segunda-feira ") 14-08-2023 segunda-feira
   
