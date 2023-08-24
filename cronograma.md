@@ -229,10 +229,11 @@ Feriado: Independência
   
 - Prova1  
 <!-- - Prova 1 - parta B: [entrega](<@@@@> "entrega") no URI -->  
-  
+
 ### [Aula_25](Unidade5/aulaAnotacoes.md#Aula_25 " 28-09-2023 quinta-feira ") 28-09-2023 quinta-feira
-  
-- correção Prova1  
+
+- Interação FURB  
+- correção Prova1 - monitor  
 [Prova1_Respostas_parteA]  
 
 - **liberar material** da próxima unidade (5).  
