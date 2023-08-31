@@ -13,7 +13,7 @@
 # Algumas anotações das aulas
 
 Mensagem "do dia", a importância de boas práticas de programação ...  
-![CodigoFuncionava](imgs/CodigoFuncionava.png "CodigoFuncionava")  
+![DiaProgramador](imgs/DiaProgramador.png "DiaProgramador")  
 
 ## Rabiscos
 
