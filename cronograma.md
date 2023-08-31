@@ -114,13 +114,13 @@ Fontes: [src](Unidade3/src "src")
   
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [ ] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
+<!-- [@] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
 ### [Aula_09](Unidade3/aulaAnotacoes.md#Aula_09 " 21-08-2023 segunda-feira ") 21-08-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [ ] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
+<!-- [@] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
   
 ### [Aula_10](Unidade3/aulaAnotacoes.md#Aula_10 " 24-08-2023 quinta-feira ") 24-08-2023 quinta-feira
   
@@ -131,9 +131,9 @@ Fontes: [src](Unidade3/src "src")
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
+<!-- [@] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
 - **liberar material** da próxima unidade (4).  
-<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
+<!-- [@] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
   
 ### [Aula_12](Unidade3/aulaAnotacoes.md#Aula_12 " 28-08-2023 segunda-feira ") 28-08-2023 segunda-feira
   
