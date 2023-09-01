@@ -22,9 +22,9 @@ Mensagem "do dia", do programador ...
 - Boas práticas de programação -> legibilidade do código  
   - [Indentação de código](https://pt.wikipedia.org/wiki/Indentação "Indentação de código");  
   - VSCode Formatar Documento (menu de contexto no código ou teclas ⇧⌥F macOs/Linux e teclas SHIFT+CRTL+F).  
-- [ ] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
-- [ ] Resgatar conteúdo da Unidade 1 ([Diagrama de Classes](../Unidade1/README.md#diagrama-de-classes)) e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
-- [ ] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
+- [@] Criar um novo projeto no VSCode para representar a Unidade 3 com o nome "Unidade3". Assim, lembrar como criar projeto e classe.  
+- [@] Resgatar conteúdo da Unidade 1 ([Diagrama de Classes](../Unidade1/README.md#diagrama-de-classes)) e mostrar o que é classe e o que é o método main de forma superficial. Lembrar que todo o código vai dentro do método main!  
+- [@] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
 
 <!-- TODO: 
 comentar de saber quais imports devem ser usados.
@@ -34,9 +34,9 @@ Pode usar View / Command Palette / >Organize Imports .. mas saber decidir qual u
 
 ### [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
 
-- [ ] [Uni3Exe01.java](src/Uni3Exe01.java "Uni3Exe01.java") <!-- prof. completo -->  
-- [ ] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
-- [ ] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->  
+- [@] [Uni3Exe01.java](src/Uni3Exe01.java "Uni3Exe01.java") <!-- prof. completo -->  
+- [@] [Uni3Exe02.java](src/Uni3Exe02.java "Uni3Exe02.java") <!-- prof. algoritmo 5 min. -->  
+- [@] [Uni3Exe03.java](src/Uni3Exe03.java "Uni3Exe03.java") <!-- 10 min. -->  
 
 ----
 Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)  
@@ -55,18 +55,18 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 <!-- para saber mais, avançado: <https://code.visualstudio.com/docs/java/java-debugging> -->
 ----
 
-- [ ] Uni3Exe04.java  
-- [ ] Uni3Exe05.java  
+- [@] Uni3Exe04.java  
+- [@] Uni3Exe05.java  
 - [ ] Uni3Exe06.java
 - [ ] Uni3Exe07.java  
 - [ ] Uni3Exe08.java  
 - [ ] Uni3Exe09.java  
 - [ ] Uni3Exe10.java  <!-- prof. só o algoritmo -->  
-- [ ] Uni3Exe11.java  
+- [@] Uni3Exe11.java  
 - [ ] Uni3Exe12.java  
 - [ ] Uni3Exe13.java  
 - [ ] Uni3Exe14.java  
-- [ ] [Uni3Exe15.java](src/Uni3Exe15.java "Uni3Exe15.java") <!-- 15 min. -->  
+- [@] [Uni3Exe15.java](src/Uni3Exe15.java "Uni3Exe15.java") <!-- 15 min. -->  
 - [ ] Uni3Exe16.java  
 
 ### [Atividades - URI](atividadeUri.md "Atividades - URI")
@@ -78,18 +78,18 @@ Desenvolvimento de código (mostrar um exemplo de uso do DEBUG)
 
 #### Resolução de exercícios URI individualmente pelos alunos  
 
-- [ ] [Uni3Uri1001.java](src/Uni3Uri1001.java "Uni3Uri1001.java") - [ ] [fluxograma](fluxogramas/Uni3Uri1001.svg "fluxograma") <!-- prof. completo -->  
-- [ ] [Uni3Uri1002.java](src/Uni3Uri1002.java "Uni3Uri1002.java") - [ ] [fluxograma](fluxogramas/Uni3Uri1002.svg "fluxograma") <!-- prof. algoritmo 10 min. -->  
-- [ ] Uni3Uri1004.java  
+- [@] [Uni3Uri1001.java](src/Uni3Uri1001.java "Uni3Uri1001.java") - [@] [fluxograma](fluxogramas/Uni3Uri1001.svg "fluxograma") <!-- prof. completo -->  
+- [@] [Uni3Uri1002.java](src/Uni3Uri1002.java "Uni3Uri1002.java") - [@] [fluxograma](fluxogramas/Uni3Uri1002.svg "fluxograma") <!-- prof. algoritmo 10 min. -->  
+- [@] Uni3Uri1004.java  
 - [ ] Uni3Uri1005.java  
 - [ ] Uni3Uri1007.java  
 - [ ] Uni3Uri1008.java  
 - [ ] Uni3Uri1009.java  
-- [ ] Uni3Uri1010.java - [ ] [fluxograma](fluxogramas/Uni3Uri1010.svg "fluxograma")  
-- [ ] Uni3Uri1012.java - [ ] [fluxograma](fluxogramas/Uni3Uri1012.svg "fluxograma")  
+- [ ] Uni3Uri1010.java - [@] [fluxograma](fluxogramas/Uni3Uri1010.svg "fluxograma")  
+- [ ] Uni3Uri1012.java - [@] [fluxograma](fluxogramas/Uni3Uri1012.svg "fluxograma")  
 - [ ] Uni3Uri1015.java  
 - [ ] Uni3Uri1016.java  
-- [ ] Uni3Uri1018.java - [ ] [fluxograma](fluxogramas/Uni3Uri1018.svg "fluxograma")  
+- [ ] Uni3Uri1018.java - [@] [fluxograma](fluxogramas/Uni3Uri1018.svg "fluxograma")  
 - [ ] Uni3Uri1019.java  
 - [ ] Uni3Uri1021.java  
 
