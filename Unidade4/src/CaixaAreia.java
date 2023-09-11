@@ -1,19 +1,19 @@
 public class CaixaAreia {
   public static void main(String[] args) {
-    int idade = 20; // depois leremos
-    
-    if (idade >= 18 ) {
-      System.out.println("pessoa maior de idade!");
-    }
-    else {
-      System.out.println("pessoa NÃO é maior de idade!");
+    int numero = 5;
+    if (numero >=  0 && numero <= 10 ||
+        numero >= 20 && numero <= 30) {
+      System.out.println("ok");
     }
 
-    if (idade < 18 ) {
-      System.out.println("pessoa NÃO é maior de idade!");
+    char letra = 'c';
+    if (letra == 'a' ||
+        letra == 'e' ||
+        letra == 'i' ||
+        letra == 'o' ||
+        letra == 'u') {
+      System.out.println("vogal");
     }
-    else {
-      System.out.println("pessoa maior de idade!");
-    }
+
   }
 }
