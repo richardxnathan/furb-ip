@@ -8,8 +8,8 @@
 [Unidade3_RespostasAtividadeURI]: <https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "Unidade3_RespostasAtividadeURI"
 
 [Unidade4_Questionário]: <> "Unidade4_Questionário"
-[Unidade4_RespostasAtividadeAula]: <> "Unidade4_RespostasAtividadeAula"
-[Unidade4_RespostasAtividadeURI]: <> "Unidade4_RespostasAtividadeURI"
+[Unidade4_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820659> "Unidade4_RespostasAtividadeAula"
+[Unidade4_RespostasAtividadeURI]: <https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "Unidade4_RespostasAtividadeURI"
 
 [Prova1_Respostas_parteA]: <> "Prova1_Respostas_parteA"
 
