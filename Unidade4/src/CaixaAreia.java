@@ -7,7 +7,8 @@ public class CaixaAreia {
       System.out.println("1");
     }
 
-    textoDois += "";
+    textoDois = textoDois + "";
+    System.out.println(textoDois);
 
     if (textoUm == textoDois) {
       System.out.println("2");
