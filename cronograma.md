@@ -1,4 +1,4 @@
-<!-- [@] INICIO atualizar -->
+<!-- [x] INICIO atualizar -->
 [Unidade1_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820666> "Unidade1_Questionário"
 
 [Unidade2_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820664> "Unidade2_Questionário"
@@ -35,7 +35,7 @@
 Local: S-415  
 Dia da semana: Segundas (18:30\~22:00)  Quintas (18:30\~20:10)
   
-<!-- [@] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
+<!-- [x] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->  
 ## [Unidade1](Unidade1 "Unidade1")  
   
 Ementa - fundamentos da programação de computadores: solução de problemas e técnicas para representação da solução.  
@@ -51,7 +51,7 @@ Fontes: [src](Unidade1/src "src")
 - horário do monitor.  
 --  
 - **liberar material** das unidades 1 e 2.  
-<!-- [@] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
+<!-- [x] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->  
 - visão geral dos fundamentos da programação de computadores.  
   
 ### [Aula_02](Unidade1/aulaAnotacoes.md#Aula_02 " 07-08-2023 segunda-feira ") 07-08-2023 segunda-feira
@@ -88,7 +88,7 @@ Fontes: [src](Unidade2/src "src")
   
 - método de resolução de algoritmos;  
 - **liberar material** da próxima unidade (3).  
-<!-- [@] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->  
+<!-- [x] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->  
   
 ### [Aula_06](Unidade2/aulaAnotacoes.md#Aula_06 " 14-08-2023 segunda-feira ") 14-08-2023 segunda-feira
   
@@ -114,13 +114,13 @@ Fontes: [src](Unidade3/src "src")
   
 - algoritmos do URI (apresentar o URI, tem de ser **exato** …);  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [@] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
+<!-- [x] Aviso: nome no URI ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-79567521> -->  
   
 ### [Aula_09](Unidade3/aulaAnotacoes.md#Aula_09 " 21-08-2023 segunda-feira ") 21-08-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [@] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
+<!-- [x] Aviso: Frase do dia - praticar, praticar ... <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58979212> -->  
   
 ### [Aula_10](Unidade3/aulaAnotacoes.md#Aula_10 " 24-08-2023 quinta-feira ") 24-08-2023 quinta-feira
   
@@ -131,9 +131,9 @@ Fontes: [src](Unidade3/src "src")
   
 - demonstração de exemplos: Java e VSCode;  
 - listas de exercícios: [atividadeAula](Unidade3/atividadeAula.md "atividadeAula") e [atividadeUri](Unidade3/atividadeUri.md "atividadeUri").  
-<!-- [@] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
+<!-- [x] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->  
 - **liberar material** da próxima unidade (4).  
-<!-- [@] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
+<!-- [x] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->  
   
 ### [Aula_12](Unidade3/aulaAnotacoes.md#Aula_12 " 28-08-2023 segunda-feira ") 28-08-2023 segunda-feira
   

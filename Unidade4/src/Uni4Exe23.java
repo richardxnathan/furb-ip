@@ -1,11 +1,12 @@
 import java.util.Scanner;
+
 public class Uni4Exe23 {
   public static void main(String[] args) {
     Scanner teclado = new Scanner(System.in);
-    System.out.print("Número mês: ");
-    int mesNumero = teclado.nextInt();
+    System.out.println("Entre com o número do mês: ");
+    int mes = teclado.nextInt();
 
-    switch (mesNumero) {
+    switch (mes) {
       case 1:
         System.out.println("Janeiro");
         break;
@@ -43,10 +44,9 @@ public class Uni4Exe23 {
         System.out.println("Dezembro");
         break;
       default:
-        System.out.println("Mês inválido!!");
+        System.out.println("Valor inválido");
         break;
     }
-
     teclado.close();
   }
 }

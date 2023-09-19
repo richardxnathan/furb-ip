@@ -1,21 +1,12 @@
+import java.util.Scanner;
+
 public class CaixaAreia {
-  public static void main(String[] args) {
-    String textoUm = "aula";
-    String textoDois = "aula";
+	public static void main(String[] args) {
 
-    if (textoUm == textoDois) {
-      System.out.println("1");
-    }
+		Scanner teclado = new Scanner(System.in);
 
-    textoDois = textoDois + "";
-    System.out.println(textoDois);
 
-    if (textoUm == textoDois) {
-      System.out.println("2");
-    }
-    if (textoUm.equals(textoDois)) {
-      System.out.println("3");
-    }
+		teclado.close();
 
-  }
+	}
 }

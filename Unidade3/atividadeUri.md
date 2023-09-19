@@ -4,13 +4,13 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 
 Bom, agora vocês devem acessar o link  
 
-<!-- [@] INICIO atualizar -->
+<!-- [x] INICIO atualizar -->
 [https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403")  
 
-<!-- [@] INICIO atualizar -->
+<!-- [x] INICIO atualizar -->
 para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_NOTURNO_2023_2**.  
 
-<!-- [@] INICIO atualizar -->
+<!-- [x] INICIO atualizar -->
 Assim que acessar a disciplina informe a seguinte chave de acesso (token): qHaqNA9  
 
 Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
