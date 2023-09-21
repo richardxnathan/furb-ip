@@ -5,6 +5,11 @@ public class CaixaAreia {
 
 		Scanner teclado = new Scanner(System.in);
 
+		if (true) {
+			
+		} else {
+			
+		}
 
 		teclado.close();
 
