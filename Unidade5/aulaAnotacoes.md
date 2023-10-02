@@ -34,13 +34,13 @@ Mensagem "do dia", do programador ...
 
 ### [Aula_27](../cronograma.md#Aula_27)
 
-- [ ] Criar um novo projeto no VSCode para representar a Unidade 5 com o nome "Unidade5";  
-- [ ] Loop infinito - uso do CTRL+C;  
-- [ ] Resgatar conteúdo da Unidade 5 e mostrar o que é o **Estruturas de Seleção: comando repetição**;  
+- [x] Criar um novo projeto no VSCode para representar a Unidade 5 com o nome "Unidade5";  
+- [x] Loop infinito - uso do CTRL+C;  
+- [x] Resgatar conteúdo da Unidade 5 e mostrar o que é o **Estruturas de Seleção: comando repetição**;  
   - Grupo PARA (for);  
   - Grupo ENQUANTO (while);  
   - Grupo FAÇA ENQUANTO (do while);  
-- [ ] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
+- [x] Resolver os primeiros exercícios (exemplos) [Atividades - Aula](atividadeAula.md "Atividades - Aula").  
 
 **Observem** que uso de [Comandos de Controle de Fluxo: Repetição](./README.md#comandos-de-controle-de-fluxo-repetição) geram um padrão de comportamento a cada iteração. E, ao se analisar o enunciado do problema e se conseguindo identificar este padrão pode ajudar a resolver o problema inicial.  
 
@@ -55,7 +55,7 @@ Como exemplo tomamos o problema apresentado na unidade 2, o problema [Uni2Exe20]
 - [Fonte: ExemploFOR](src/ExemploFOR.java "Fonte: ExemploFOR")  
 
 <!-- FIXME: alguns com fluxograma -->
-- [ ] [Uni5Exe01.java](src/Uni5Exe01.java "Uni5Exe01.java") <!-- prof. completo -->  
+- [x] [Uni5Exe01.java](src/Uni5Exe01.java "Uni5Exe01.java") <!-- prof. completo -->  
 - [ ] [Uni5Exe02.java](src/Uni5Exe02.java "Uni5Exe02.java")  
 - [ ] [Uni5Exe03.java](src/Uni5Exe03.java "Uni5Exe03.java")  
 - [ ] Uni5Exe04.java - [Planilha](./fluxogramas/RespostasEmPlanilha.xlsx "Planilha")  
