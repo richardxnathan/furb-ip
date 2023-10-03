@@ -5,7 +5,7 @@ public class Uni5Exe01 {
     Scanner teclado = new Scanner(System.in);
     int numero = 0;
 
-    for (int i = 1; i <= 5; i++) { // ATENÇÃO mudar para 20
+    for (int i = 1; i <= 20; i++) {
       System.out.print("Número[" + i + "]: ");
       numero = teclado.nextInt();
       if (numero % 2 == 0) {
