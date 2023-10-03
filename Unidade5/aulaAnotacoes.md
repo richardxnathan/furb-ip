@@ -56,9 +56,9 @@ Como exemplo tomamos o problema apresentado na unidade 2, o problema [Uni2Exe20]
 
 <!-- FIXME: alguns com fluxograma -->
 - [x] [Uni5Exe01.java](src/Uni5Exe01.java "Uni5Exe01.java") <!-- prof. completo -->  
-- [ ] [Uni5Exe02.java](src/Uni5Exe02.java "Uni5Exe02.java")  
+- [x] [Uni5Exe02.java](src/Uni5Exe02.java "Uni5Exe02.java")  
 - [ ] [Uni5Exe03.java](src/Uni5Exe03.java "Uni5Exe03.java")  
-- [ ] Uni5Exe04.java - [Planilha](./fluxogramas/RespostasEmPlanilha.xlsx "Planilha")  
+- [x] Uni5Exe04.java - [Planilha](./fluxogramas/RespostasEmPlanilha.xlsx "Planilha")  
 - [ ] Uni5Exe05.java - [Planilha](./fluxogramas/RespostasEmPlanilha.xlsx "Planilha")  
 - [ ] [Uni5Exe06.java](src/Uni5Exe06.java "Uni5Exe06.java")  
 - [ ] [Uni5Exe07.java](src/Uni5Exe07.java "Uni5Exe07.java")  
