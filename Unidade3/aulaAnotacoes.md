@@ -9,9 +9,8 @@
 
 # Algumas anotações das aulas
 
-Mensagem "do dia", do programador ...  
-    Programadores .. analisem o problema antes.  Não saiam “chutando” tudo.  
-[programador](imgs/programador.mov "programador")  
+A importância de fazer um código legível ...  
+![CodigoFuncionava](imgs/CodigoFuncionava.png "CodigoFuncionava")  
 
 ## Rabiscos
 

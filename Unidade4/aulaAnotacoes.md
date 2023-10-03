@@ -12,7 +12,7 @@
 
 # Algumas anotações das aulas
 
-Mensagem "do dia", a importância de boas práticas de programação ...  
+Você sabe qual é o seu dia? ... o Dia do Programador, 13 de setembro  
 ![DiaProgramador](imgs/DiaProgramador.png "DiaProgramador")  
 
 ## Rabiscos

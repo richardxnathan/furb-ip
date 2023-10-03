@@ -6,9 +6,8 @@
 
 # Algumas anotações das aulas  
 
-Mensagem "do dia", do programador ...  
-    Programadores .. analisem o problema antes.  Não saiam “chutando” tudo.  
-[programador](imgs/programador.mov "programador")  
+Programadores .. analisem o problema antes. Não saiam “chutando” tudo.  
+![programador](imgs/programador.mov "programador")  
 
 ## Rabiscos
 

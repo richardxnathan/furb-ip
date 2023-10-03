@@ -12,9 +12,8 @@
 
 # Algumas anotações das aulas
 
-Mensagem "do dia", do programador ...  
-    Qual é o dia do Programador?  
-    [Olhar imagem](imgs/DiaProgramador.png "Olhar imagem")  
+Para se pensar .. "energia humana".  
+![energiaHumana](imgs/energiaHumana.png "energiaHumana")  
 
 ## Rabiscos
 
