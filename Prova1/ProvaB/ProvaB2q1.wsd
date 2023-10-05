@@ -1,0 +1,20 @@
+@startuml ProvaB2q1
+(*) --> "animal = ''Vertebrado''"
+--> "especie = ''Extinção''"
+if "((animal é vazio) E (especie é vazio))" then
+->[true] "escrever(''Animal e Espécie'')"
+-> ===REDIRECT_CHECK===
+else
+-->[false] escrever(''Teste Espécie'')
+if "(especie é vazio)" then
+->[true] escrever(''Espécie Vazio'')
+-> "escrever(''Animal Vazio'')"
+--> ===REDIRECT_CHECK===
+else
+->[false] escrever(''Espécie Cadastrada'')
+--> ===REDIRECT_CHECK===
+endif
+endif
+--> "escrever(''Outra Espécie'')"
+-->(*)
+@enduml

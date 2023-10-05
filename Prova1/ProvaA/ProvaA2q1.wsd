@@ -1,0 +1,20 @@
+@startuml ProvaA2q1
+  (*) --> "nome = ''Teste''" 
+  --> "pais = ''Brasil''" 
+  if "((nome é vazio) E (pais é vazio))" then
+    ->[true] "escrever(''Nome e Pais'')"
+    -> "escrever(''Vazio'')"
+    -> ===REDIRECT_CHECK===  
+  else
+    -->[false] escrever(''Teste Pais'')
+	  if "(pais é vazio)" then
+  	  ->[true] escrever(''Pais Vazio'')
+    	--> ===REDIRECT_CHECK===  
+    else
+  	  ->[false] escrever(''Pais Cadastrado'')
+    	--> ===REDIRECT_CHECK===  
+    endif
+  endif
+  --> "escrever(''Acabei'')"
+  -->(*)
+@enduml

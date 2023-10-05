@@ -1,0 +1,20 @@
+@startuml ProvaB1q1
+  (*) --> "cor = ''Vermelha''" 
+  --> "carro = ''Fusca''" 
+  if "((cor é vazia) E (carro é vazio))" then
+    ->[true] "escrever(''Cor e Carro'')"
+    -> ===REDIRECT_CHECK===  
+  else
+    -->[false] escrever(''Teste Carro'')
+	  if "(carro é vazio)" then
+  	  ->[true] escrever(''Carro Vazio'')
+    -> "escrever(''Cor Vazia'')"
+    	--> ===REDIRECT_CHECK===  
+    else
+  	  ->[false] escrever(''Carro Cadastrado'')
+    	--> ===REDIRECT_CHECK===  
+    endif
+  endif
+  --> "escrever(''Outro Carro'')"
+  -->(*)
+@enduml

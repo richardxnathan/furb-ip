@@ -1,0 +1,20 @@
+@startuml ProvaA1q1
+  (*) --> "nome = ''Teste''" 
+  --> "cidade = ''Blumenau''" 
+  if "((nome é vazio) E (cidade é vazio))" then
+    ->[true] "escrever(''Nome e Cidade'')"
+    -> "escrever(''Vazio'')"
+    -> ===REDIRECT_CHECK===  
+  else
+    -->[false] escrever(''Teste Cidade'')
+	  if "(cidade é vazio)" then
+  	  ->[true] escrever(''Cidade Vazio'')
+    	--> ===REDIRECT_CHECK===  
+    else
+  	  ->[false] escrever(''Cidade Cadastrada'')
+    	--> ===REDIRECT_CHECK===  
+    endif
+  endif
+  --> "escrever(''FIM'')"
+  -->(*)
+@enduml
