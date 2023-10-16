@@ -7,15 +7,15 @@
 [Unidade3_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820662> "Unidade3_RespostasAtividadeAula"
 [Unidade3_RespostasAtividadeURI]: <https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "Unidade3_RespostasAtividadeURI"
 
-[Unidade4_Questionário]: <> "Unidade4_Questionário"
+<!-- [Unidade4_Questionário]: <> "Unidade4_Questionário" -->
 [Unidade4_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820659> "Unidade4_RespostasAtividadeAula"
 [Unidade4_RespostasAtividadeURI]: <https://www.urionlinejudge.com.br/judge/en/disciplines/join/11403> "Unidade4_RespostasAtividadeURI"
 
 [Prova1_Respostas_parteA]: <> "Prova1_Respostas_parteA"
 
-[Unidade5_Questionário]: <> "Unidade5_Questionário"
-[Unidade5_RespostasAtividadeAula]: <> "Unidade5_RespostasAtividadeAula"
-[Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI"
+[Unidade5_Questionário]: <https://ava3.furb.br/mod/quiz/view.php?id=820654> "Unidade5_Questionário"
+[Unidade5_RespostasAtividadeAula]: <https://ava3.furb.br/mod/assign/view.php?id=820655> "Unidade5_RespostasAtividadeAula"
+<!-- [Unidade5_RespostasAtividadeURI]: <> "Unidade5_RespostasAtividadeURI" -->
 
 [Unidade6_Questionário]: <> "Unidade6_Questionário"
 [Unidade6_RespostasAtividadeAula]: <> "Unidade6_RespostasAtividadeAula"
@@ -160,22 +160,22 @@ Fontes: [src](Unidade4/src "src")
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE (if): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoIf](Unidade4/atividadeaulaAnotacoes.md#grupo-se-if "atividadeAula-GrupoIf").  
+   - [atividadeAula-GrupoIf](Unidade4/aulaAnotacoes.md#grupo-se-if "atividadeAula-GrupoIf").  
   
 ### [Aula_14](Unidade4/aulaAnotacoes.md#Aula_14 " 04-09-2023 segunda-feira ") 04-09-2023 segunda-feira
   
 - comandos de controle de fluxo: seleção;  
   - grupo SE - SENÃO (if - else): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoIfElse](Unidade4/atividadeaulaAnotacoes.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
+   - [atividadeAula-GrupoIfElse](Unidade4/aulaAnotacoes.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
   
 ### [Aula_15](Unidade4/aulaAnotacoes.md#Aula_15 " 04-09-2023 segunda-feira ") 04-09-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula-GrupoIf](Unidade4/atividadeaulaAnotacoes.md#grupo-se-if "atividadeAula-GrupoIf");  
-- [atividadeAula-GrupoIfElse](Unidade4/atividadeaulaAnotacoes.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
+- [atividadeAula-GrupoIf](Unidade4/aulaAnotacoes.md#grupo-se-if "atividadeAula-GrupoIf");  
+- [atividadeAula-GrupoIfElse](Unidade4/aulaAnotacoes.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 - comandos de controle de fluxo: seleção;  
   - grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoComposto](Unidade4/atividadeaulaAnotacoes.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
+   - [atividadeAula-GrupoComposto](Unidade4/aulaAnotacoes.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto").  
   
 ### [Aula_16](Unidade4/aulaAnotacoes.md#Aula_16 " 07-09-2023 quinta-feira ") 07-09-2023 quinta-feira
   
@@ -185,25 +185,25 @@ Feriado: Independência
   
 - comandos de controle de fluxo: seleção;  
   - grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoEscolha](Unidade4/atividadeaulaAnotacoes.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
+   - [atividadeAula-GrupoEscolha](Unidade4/aulaAnotacoes.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
   
 ### [Aula_18](Unidade4/aulaAnotacoes.md#Aula_18 " 11-09-2023 segunda-feira ") 11-09-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula-GrupoComposto](Unidade4/atividadeaulaAnotacoes.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto");  
-- [atividadeAula-GrupoEscolha](Unidade4/atividadeaulaAnotacoes.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
+- [atividadeAula-GrupoComposto](Unidade4/aulaAnotacoes.md#grupo-composto-e-e-ou--e "atividadeAula-GrupoComposto");  
+- [atividadeAula-GrupoEscolha](Unidade4/aulaAnotacoes.md#grupo-escolha-switch "atividadeAula-GrupoEscolha").  
   
 ### [Aula_19](Unidade4/aulaAnotacoes.md#Aula_19 " 14-09-2023 quinta-feira ") 14-09-2023 quinta-feira
   
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_20](Unidade4/aulaAnotacoes.md#Aula_20 " 18-09-2023 segunda-feira ") 18-09-2023 segunda-feira
   
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_21](Unidade4/aulaAnotacoes.md#Aula_21 " 18-09-2023 segunda-feira ") 18-09-2023 segunda-feira
   
-- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeaulaAnotacoes.md "atividadeAula").  
+- listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/aulaAnotacoes.md "atividadeAula").  
   
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo:  20-09-2023 quarta-feira
   
@@ -256,13 +256,13 @@ Fontes: [src](Unidade5/src "src")
   
 - comandos de controle de fluxo: repetição;  
   - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoFor](Unidade5/atividadeaulaAnotacoes.md#grupo-para-for "atividadeAula-GrupoFor").  
+   - [atividadeAula-GrupoFor](Unidade5/aulaAnotacoes.md#grupo-para-for "atividadeAula-GrupoFor").  
   
 ### [Aula_27](Unidade5/aulaAnotacoes.md#Aula_27 " 02-10-2023 segunda-feira ") 02-10-2023 segunda-feira
   
 - comandos de controle de fluxo: repetição;  
   - grupo PARA (for): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoFor](Unidade5/atividadeaulaAnotacoes.md#grupo-para-for "atividadeAula-GrupoFor").  
+   - [atividadeAula-GrupoFor](Unidade5/aulaAnotacoes.md#grupo-para-for "atividadeAula-GrupoFor").  
 <!-- [ ] Aviso: conversa com os alunos <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55423467> -->  
 <!-- conversa com os alunos (individualmente) -->  
   
@@ -270,8 +270,8 @@ Fontes: [src](Unidade5/src "src")
   
 - comandos de controle de fluxo: repetição;  
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
-   - [atividadeAula-GrupoDoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+   - [atividadeAula-GrupoWhile](Unidade5/aulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
+   - [atividadeAula-GrupoDoWhile](Unidade5/aulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
   
 ### [Aula_29](Unidade5/aulaAnotacoes.md#Aula_29 " 09-10-2023 segunda-feira ") 09-10-2023 segunda-feira
   
@@ -289,9 +289,9 @@ Feriado: NS Aparecida
   
 - comandos de controle de fluxo: repetição;  
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
+   - [atividadeAula-GrupoWhile](Unidade5/aulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
   - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoDoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+   - [atividadeAula-GrupoDoWhile](Unidade5/aulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 <!-- conversa com os alunos (individualmente) -->  
 - **liberar material** da próxima unidade (6).  
   
@@ -299,14 +299,16 @@ Feriado: NS Aparecida
   
 - comandos de controle de fluxo: repetição;  
   - grupo ENQUANTO (while): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
+   - [atividadeAula-GrupoWhile](Unidade5/aulaAnotacoes.md#grupo-enquanto-while "atividadeAula-GrupoWhile");  
   - grupo FAÇA ENQUANTO (do while): demonstração de exemplos: Java e VSCode;  
-   - [atividadeAula-GrupoDoWhile](Unidade5/atividadeaulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
+   - [atividadeAula-GrupoDoWhile](Unidade5/aulaAnotacoes.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
   
-### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo:  18-10-2023 quarta-feira
+### [Unidade5-Atividades](Unidade6 "Unidade5-Atividades") Prazo:  18-10-2023 quarta-feira
   
+- [Unidade5_RespostasAtividadeAula];
+
 <!-- FIXME: fazer - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri"); —>.   
-- [atividadeAula](Unidade5/atividadeaulaAnotacoes.md "atividadeAula");  
+- [atividadeAula](Unidade5/aulaAnotacoes.md "atividadeAula");  
 - assistir as videoaulas da Unidade6;  
 - responder o [Unidade6_Questionário].  
 <!-- [ ] Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->  
@@ -323,33 +325,33 @@ Fontes: [src](Unidade6/src "src")
   [Ambiente de Desenvolvimento Prático - Apoio](./Unidade5/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_35](Unidade6/aulaAnotacoes.md#Aula_35 " 23-10-2023 segunda-feira ") 23-10-2023 segunda-feira
   
 <!-- FIXME: melhorar a descrição do que é feito nos dias desta unidade -->  
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_36](Unidade6/aulaAnotacoes.md#Aula_36 " 23-10-2023 segunda-feira ") 23-10-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_37](Unidade6/aulaAnotacoes.md#Aula_37 " 26-10-2023 quinta-feira ") 26-10-2023 quinta-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_38](Unidade6/aulaAnotacoes.md#Aula_38 " 30-10-2023 segunda-feira ") 30-10-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_39](Unidade6/aulaAnotacoes.md#Aula_39 " 30-10-2023 segunda-feira ") 30-10-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_40](Unidade7/aulaAnotacoes.md#Aula_40 " 02-11-2023 quinta-feira ") 02-11-2023 quinta-feira
   
@@ -358,12 +360,12 @@ Feriado: Finados
 ### [Aula_41](Unidade7/aulaAnotacoes.md#Aula_41 " 06-11-2023 segunda-feira ") 06-11-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
   
 ### [Aula_42](Unidade7/aulaAnotacoes.md#Aula_42 " 06-11-2023 segunda-feira ") 06-11-2023 segunda-feira
   
 - demonstração de exemplos: Java e VSCode;  
-- [atividadeAula](Unidade6/atividadeaulaAnotacoes.md "atividadeAula").  
+- [atividadeAula](Unidade6/aulaAnotacoes.md "atividadeAula").  
 <!-- - liberar exercícios unidade 5 e 6.  -->  
   
 -----------  
