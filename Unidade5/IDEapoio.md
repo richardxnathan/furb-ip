@@ -54,9 +54,11 @@ O **Discussions** é um espaço de discussões da nossa disciplina de Introduç�
 
 Lembre-se de que esta é uma comunidade que nós construímos juntos 💪.
 
+<!-- [FIXME:]
 Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
 
-- <https://github.com/dalton-reis/disciplinaIpMatA/discussions>
+- <https://github.com/dalton-reis/IP_Noturno_2023_2/discussions>
+-->
 
 ### OpenJDK Documentation
 
