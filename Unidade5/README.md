@@ -83,7 +83,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ### [Videoaula_5_2 (18:12)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EQ4jF9-zHZZDo4auco41Rb0BJAhU3SLF1mVdNKuiQLwsRA?e=RWa2D5> "link alternativo da segunda videoaula da unidade 5")  
 
-### Comandos de Controle de Fluxo​: Repetição: enquanto (while / do while)
+### Comandos de Controle de Fluxo​: Repetição: enquanto (while / do while) - parte 1
 
 - As estruturas de repetição condicionais avaliam uma determinada condição lógica para fazer a execução do laço de repetição. A condição sempre será avaliada como **verdadeira** ou **falsa**.  
 - A estrutura condicional mais comum é o **enquanto-faça**. A estrutura **enquanto-faça** executa um conjunto de instruções enquanto a expressão lógica for avaliada como verdadeira.​
@@ -180,7 +180,7 @@ Algumas anotações feitas em aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
   } while (potencia <= 100);  
   ```  
 
-### Comandos de Controle de Fluxo​: Repetição: enquanto (while / do while)
+### Comandos de Controle de Fluxo​: Repetição: enquanto (while / do while) - parte 2
 
 - Importante:  
   - expressão-lógica: é a expressão avaliada antes de cada repetição do laço. Quando seu resultado for **verdadeiro**, <sequência-de-comandos> é executada​  
