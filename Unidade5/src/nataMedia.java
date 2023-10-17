@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class nataMedia {
   public static void main(String[] args) {
     Scanner tec = new Scanner(System.in);
-    double nota, somaNota, media;
+    double nota, somaNota, media = 0;
     final int qtdALunos = 200;
     final int qtdNotas = 30;
 
