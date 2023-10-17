@@ -28,8 +28,8 @@ Para mais informações:
   [<https://docs.microsoft.com/pt-br/visualstudio/liveshare/>](https://docs.microsoft.com/pt-br/visualstudio/liveshare/ "Sobre o Live Share")
 
 - para usar o Live Share no VSCode (Extension)
-  
-  [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack "Instalar o Live Share")
+
+  [https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare "https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare")  
 
 ### GIT (Controlador de Versão)
 
