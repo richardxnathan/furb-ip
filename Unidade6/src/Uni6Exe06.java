@@ -2,26 +2,26 @@ import java.util.Scanner;
 
 public class Uni6Exe06 {
   public static void main(String[] args) {
-    Scanner tec = new Scanner(System.in);
-    System.out.print("vetor tamanho: ");
-    final int vetTamanho = tec.nextInt();
-    double vetor[] = new double[vetTamanho];
+    Scanner teclado = new Scanner(System.in);
+    System.out.print("Informe oo tamanho do vetor (N): ");
+    final int vetorTamanho = teclado.nextInt();
+    double vetor[] = new double[vetorTamanho];
 
-    // Leitura do vetor
-    for (int i = 0; i < vetTamanho; i++) {
-      System.out.print("vetor[" + i + "]: ");
-      vetor[i] = tec.nextDouble();
+    // Ler vetor - popular
+    for (int i = 0; i < vetor.length; i++) {
+      System.out.println("Valor: ");
+      vetor[i] = teclado.nextInt();
     }
 
-    // Pesquisa no vetor
-    System.out.print("Valor pesquisa: ");
-    final double valorPesquisa = tec.nextDouble();
-    for (int i = 0; i < vetTamanho; i++) {
-      if (valorPesquisa == vetor[i]) {
-        System.out.println("Encontrou na posição [" + i + "].");
-        break;
+    // Pesquisa vetor
+    System.out.println("Informe valor a ser pesquisado: ");
+    double valorPesquisado = teclado.nextInt();
+    for (int i = 0; i < vetor.length; i++) {
+      if (vetor[i] == valorPesquisado) {
+        System.out.println("Encontrou..");
       }
     }
-    tec.close();
+
+    teclado.close();
   }
 }

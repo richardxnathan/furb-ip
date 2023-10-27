@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Uni6Exe06 {
-  private Uni6Exe06() {
+public class Uni6Exe06metodo {
+  private Uni6Exe06metodo() {
     Scanner teclado = new Scanner(System.in);
-    System.out.println("Informe oo tamanho do vetor (N): ");
+    System.out.print("Informe oo tamanho do vetor (N): ");
     final int vetorTamanho = teclado.nextInt();
     double vetor[] = new double[vetorTamanho];
 
@@ -32,6 +32,7 @@ public class Uni6Exe06 {
     }
   }
 
+  // Pesquisa vetor
   private boolean vetorPesquisa(Scanner teclado, double vetor[]) {
     System.out.println("Informe valor a ser pesquisado: ");
     double valorPesquisado = teclado.nextInt();
@@ -44,6 +45,6 @@ public class Uni6Exe06 {
   }
 
   public static void main(String[] args) {
-    new Uni6Exe06();
+    new Uni6Exe06metodo();
   }
 }
