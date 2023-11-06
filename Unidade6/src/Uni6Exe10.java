@@ -10,7 +10,10 @@ public class Uni6Exe10 {
     vetor[1] = 200;
     vetor[2] = 300;
     vetor[3] = 400;
-    vetorQtdEle = 4;
+    vetor[4] = 500;
+    vetor[5] = 600;
+    vetor[6] = 700;
+    vetorQtdEle = 7;
 
     int opcao;
 
@@ -61,6 +64,7 @@ public class Uni6Exe10 {
     }
     return vetorQtdEle;
   }
+
   public int vetorPesquisar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
     System.out.println("Valor pesquisar: ");
     int valorPesquisar = teclado.nextInt();
@@ -76,7 +80,7 @@ public class Uni6Exe10 {
 
   public void vetorAlterar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
     int indencontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
-    if (indencontrou != -1) {  // indice de valor não encontrado
+    if (indencontrou != -1) { // indice de valor não encontrado
       System.out.println("Valor alterar: ");
       int valorSubstituir = teclado.nextInt();
       vetor[indencontrou] = valorSubstituir;
@@ -84,12 +88,12 @@ public class Uni6Exe10 {
   }
 
   public int vetorExcluir(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
-    int indencontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
-    if (indencontrou != -1) {  // indice de valor não encontrado
+    int indEncontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
+    if (indEncontrou != -1) { // indice de valor não encontrado
+      for (int i = indEncontrou; i < vetorQtdEle; i++) {
+        vetor[i] = vetor[i+1];
+      }
       vetorQtdEle--;
-      // System.out.println("Valor alterar: ");
-      // int valorSubstituir = teclado.nextInt();
-      // vetor[indencontrou] = valorSubstituir;
     }
     return vetorQtdEle;
   }
