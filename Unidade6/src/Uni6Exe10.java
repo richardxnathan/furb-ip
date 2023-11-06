@@ -5,15 +5,15 @@ public class Uni6Exe10 {
     Scanner teclado = new Scanner(System.in);
     int vetor[] = new int[50];
     int vetorQtdEle = 0;
-    // FIXME:
-    vetor[0] = 100;
-    vetor[1] = 200;
-    vetor[2] = 300;
-    vetor[3] = 400;
-    vetor[4] = 500;
-    vetor[5] = 600;
-    vetor[6] = 700;
-    vetorQtdEle = 7;
+    // // FIXME:
+    // vetor[0] = 100;
+    // vetor[1] = 200;
+    // vetor[2] = 300;
+    // vetor[3] = 400;
+    // vetor[4] = 500;
+    // vetor[5] = 600;
+    // vetor[6] = 700;
+    // vetorQtdEle = 7;
 
     int opcao;
 
