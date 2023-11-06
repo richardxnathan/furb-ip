@@ -28,7 +28,7 @@ public class Uni6Exe10 {
           vetorAlterar(vetor, vetorQtdEle, teclado);
           break;
         case 4: // Excluir valor
-          vetorExcluir();
+          vetorQtdEle = vetorExcluir(vetor, vetorQtdEle, teclado);
           break;
         case 5: // Mostrar valores
           vetorMostrar(vetor, vetorQtdEle);
@@ -61,35 +61,37 @@ public class Uni6Exe10 {
     }
     return vetorQtdEle;
   }
-
   public int vetorPesquisar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
     System.out.println("Valor pesquisar: ");
     int valorPesquisar = teclado.nextInt();
-    int indEncontrou = -1;
     for (int i = 0; i < vetorQtdEle; i++) {
       if (vetor[i] == valorPesquisar) {
-        indEncontrou = i;
+        System.out.println("Valor encontrado[" + i + "]");
+        return i;
       }
     }
-    if (indEncontrou == -1) {
-      System.out.println("Não encontrei o valor");
-    } else {
-      System.out.println("Encontrei o valor");
-    }
-    return indEncontrou;
+    System.out.println("Valor NÃO encontrado");
+    return -1;
   }
 
   public void vetorAlterar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
     int indencontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
-    int valorSubstituir;
-    if (indencontrou != -1) {
+    if (indencontrou != -1) {  // indice de valor não encontrado
       System.out.println("Valor alterar: ");
-      valorSubstituir = teclado.nextInt();
+      int valorSubstituir = teclado.nextInt();
       vetor[indencontrou] = valorSubstituir;
     }
   }
 
-  public void vetorExcluir() {
+  public int vetorExcluir(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
+    int indencontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
+    if (indencontrou != -1) {  // indice de valor não encontrado
+      vetorQtdEle--;
+      // System.out.println("Valor alterar: ");
+      // int valorSubstituir = teclado.nextInt();
+      // vetor[indencontrou] = valorSubstituir;
+    }
+    return vetorQtdEle;
   }
 
   public void vetorMostrar(int vetor[], int vetorQtdEle) {
