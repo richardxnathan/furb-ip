@@ -5,7 +5,7 @@ public class Uni6Exe10 {
     Scanner teclado = new Scanner(System.in);
     int vetor[] = new int[50];
     int vetorQtdEle = 0;
-    // // FIXME:
+    // // FIXME: só para testar e não precisar fazer vários vetorIncluir 
     // vetor[0] = 100;
     // vetor[1] = 200;
     // vetor[2] = 300;
@@ -40,7 +40,7 @@ public class Uni6Exe10 {
           vetorOrdenar();
           break;
         case 7: // Inverter valores
-          vetorInverter();
+          vetorInverter(vetor, vetorQtdEle);
           break;
         case 8: // Sair do sistema
           System.out.println("_FIM_");
@@ -111,8 +111,14 @@ public class Uni6Exe10 {
 
   }
 
-  public void vetorInverter() {
-
+  public void vetorInverter(int vetor[], int vetorQtdEle) {
+    int vetorTmp[] = new int[vetorQtdEle];
+    for (int i = 0; i < vetorQtdEle; i++) {
+      vetorTmp[i] = vetor[i];
+    }
+    for (int i = 0; i < vetorQtdEle; i++) {
+      vetor[i] = vetorTmp[vetorQtdEle-i-1];
+    }
   }
 
   public static void main(String[] args) {
