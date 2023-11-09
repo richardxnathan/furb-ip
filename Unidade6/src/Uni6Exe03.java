@@ -1,9 +1,3 @@
-
-/*
-ímpares sejam aumentados em 5%
-pares sejam aumentados em 2%
-. Imprima o vetor resultante. 
- */
 import java.util.Scanner;
 
 public class Uni6Exe03 {
