@@ -1,127 +1,140 @@
 import java.util.Scanner;
 
 public class Uni6Exe10 {
-  public Uni6Exe10() {
-    Scanner teclado = new Scanner(System.in);
-    int vetor[] = new int[50];
-    int vetorQtdEle = 0;
-    // // FIXME: só para testar e não precisar fazer vários vetorIncluir 
-    // vetor[0] = 100;
-    // vetor[1] = 200;
-    // vetor[2] = 300;
-    // vetor[3] = 400;
-    // vetor[4] = 500;
-    // vetor[5] = 600;
-    // vetor[6] = 700;
-    // vetorQtdEle = 7;
 
-    int opcao;
+	private Uni6Exe10() {
+		Scanner teclado = new Scanner(System.in);
+		int vet[] = new int[50];
+		int posFim = 0; // posição no topo do vetor
 
-    do {
-      System.out.print("Opção: ");
-      opcao = teclado.nextInt();
-      switch (opcao) {
-        case 1: // Incluir valor
-          vetorQtdEle = vetorIncluir(vetor, vetorQtdEle, teclado);
-          break;
-        case 2: // Pesquisar valor
-          vetorPesquisar(vetor, vetorQtdEle, teclado);
-          break;
-        case 3: // Alterar valor
-          vetorAlterar(vetor, vetorQtdEle, teclado);
-          break;
-        case 4: // Excluir valor
-          vetorQtdEle = vetorExcluir(vetor, vetorQtdEle, teclado);
-          break;
-        case 5: // Mostrar valores
-          vetorMostrar(vetor, vetorQtdEle);
-          break;
-        case 6: // Ordenar valores
-          vetorOrdenar();
-          break;
-        case 7: // Inverter valores
-          vetorInverter(vetor, vetorQtdEle);
-          break;
-        case 8: // Sair do sistema
-          System.out.println("_FIM_");
-          break;
-        default:
-          System.out.println("Opção do menu ERRADA.");
-          break;
-      }
-    } while (opcao != 8);
+		System.out.println("\033[H\033[2J"); // limpa console
 
-    teclado.close();
-  }
+		int opcao;
+		do {
+			System.out.println(" ________ MENU ________");
+			System.out.println("  1 - Incluir valor");
+			System.out.println("  2 - Pesquisar valor");
+			System.out.println("  3 - Alterar valor");
+			System.out.println("  4 - Excluir valor");
+			System.out.println("  5 - Mostrar valores");
+			System.out.println("  6 - Ordenar valores");
+			System.out.println("  7 - Inverter valores");
+			System.out.println("  8 - Sair do sistema");
+			System.out.print(" Opção: ");
+			opcao = teclado.nextInt();
+			switch (opcao) {
+			case 1:
+				posFim = incluir(vet, posFim, teclado);
+				break;
+			case 2:
+				pesquisar(vet, posFim, teclado);
+				break;
+			case 3:
+				alterar(vet, posFim, teclado);
+				break;
+			case 4:
+				posFim = excluir(vet, posFim, teclado);
+				break;
+			case 5:
+				mostrar(vet, posFim);
+				break;
+			case 6:
+				ordenar(vet, posFim);
+				break;
+			case 7:
+				inverter(vet, posFim);
+				break;
+			case 8:
+				System.out.println(" __ FIM __ ");
+				break;
+			default:
+				System.out.println(" .. opção inválida .. ");
+				break;
+			}
+		} while (opcao != 8);
+	}
 
-  public int vetorIncluir(int vetor[], int vetorQtdEle, Scanner teclado) {
-    if (vetorQtdEle < vetor.length) {
-      System.out.print("Valor: ");
-      vetor[vetorQtdEle] = teclado.nextInt();
-      vetorQtdEle++;
-    } else {
-      System.out.println("Vetor CHEIO!!");
-    }
-    return vetorQtdEle;
-  }
+	private int incluir(int vet[], int posFim, Scanner teclado) {
+		if (posFim < vet.length) {
+			System.out.print(" valor: ");
+			vet[posFim] = teclado.nextInt();
+			System.out.println("_ incluído em vet[" + posFim + "].");
+			posFim++;
+		} else {
+			System.out.println(" .. não incluído - vetor cheio .. ");
+		}
+		return posFim;
+	}
 
-  public int vetorPesquisar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
-    System.out.println("Valor pesquisar: ");
-    int valorPesquisar = teclado.nextInt();
-    for (int i = 0; i < vetorQtdEle; i++) {
-      if (vetor[i] == valorPesquisar) {
-        System.out.println("Valor encontrado[" + i + "]");
-        return i;
-      }
-    }
-    System.out.println("Valor NÃO encontrado");
-    return -1;
-  }
+	private int pesquisar(int vet[], int posFim, Scanner teclado) {
+		System.out.print(" valor pesquisa: ");
+		int valor = teclado.nextInt();
+		for (int i = 0; i < posFim; i++) {
+			if (valor == vet[i]) {
+				System.out.println("_ encontrado vet[" + i + "]");
+				return i;
+			}
+		}
+		System.out.println("_ Não encontrado.");
+		return -1;
+	}
 
-  public void vetorAlterar(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
-    int indencontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
-    if (indencontrou != -1) { // indice de valor não encontrado
-      System.out.println("Valor alterar: ");
-      int valorSubstituir = teclado.nextInt();
-      vetor[indencontrou] = valorSubstituir;
-    }
-  }
+	private void alterar(int vet[], int posFim, Scanner teclado) {
+		int valorId = pesquisar(vet, posFim, teclado);
+		if (valorId != -1) {
+			System.out.print(" valor troca: ");
+			vet[valorId] = teclado.nextInt();
+			System.out.println("_ valor troca vet[" + valorId + "]: " + vet[valorId]);
+		}
+	}
 
-  public int vetorExcluir(int vetor[], int vetorQtdEle, Scanner teclado) { // Fazer este !!
-    int indEncontrou = vetorPesquisar(vetor, vetorQtdEle, teclado);
-    if (indEncontrou != -1) { // indice de valor não encontrado
-      for (int i = indEncontrou; i < vetorQtdEle; i++) {
-        vetor[i] = vetor[i+1];
-      }
-      vetorQtdEle--;
-    }
-    return vetorQtdEle;
-  }
+	private int excluir(int vet[], int posFim, Scanner teclado) {
+		int valorId = pesquisar(vet, posFim, teclado);
+		if (valorId != -1) {
+			for (int i = valorId; i < (posFim - 1); i++) {
+				vet[i] = vet[i + 1];
+			}
+			posFim--;
+			System.out.println("_ valor excluído.");
+		}
+		return posFim;
+	}
 
-  public void vetorMostrar(int vetor[], int vetorQtdEle) {
-    if (vetorQtdEle == 0) {
-      System.out.println("Vetor vazio!!");
-    }
-    for (int i = 0; i < vetorQtdEle; i++) {
-      System.out.println("Vetor[" + i + "]: " + vetor[i]);
-    }
-  }
+	private void mostrar(int vet[], int posFim) {
+		System.out.println(" __ vetor valores __ ");
+		for (int i = 0; i < posFim; i++) {
+			System.out.println("vet[" + i + "] " + vet[i]);
+		}
+	}
 
-  public void vetorOrdenar() {
+	private void ordenar(int vet[], int posFim) {
+		int bolha;
+		for (int i = 0; i < posFim - 1; i++) {
+			if (vet[i] > vet[i + 1]) {
+				bolha = vet[i];
+				vet[i] = vet[i + 1];
+				vet[i + 1] = bolha;
+				i = -1;
+			}
+		}
+		System.out.println("_ valores ordenados.");
+	}
 
-  }
+	// adaptado:
+	// https://gist.github.com/dalton-reis/1c5f2bdf65b251730e1cb76c5a61bb1b
+	private void inverter(int vet[], int posFim) {
+		int temp = 0;
+		for (int i = 0; i < posFim; i++) {
+			for (int x = 0; x < i; x++) {
+				temp = vet[i];
+				vet[i] = vet[x];
+				vet[x] = temp;
+			}
+		}
+	}
 
-  public void vetorInverter(int vetor[], int vetorQtdEle) {
-    int vetorTmp[] = new int[vetorQtdEle];
-    for (int i = 0; i < vetorQtdEle; i++) {
-      vetorTmp[i] = vetor[i];
-    }
-    for (int i = 0; i < vetorQtdEle; i++) {
-      vetor[i] = vetorTmp[vetorQtdEle-i-1];
-    }
-  }
+	public static void main(String[] args) {
+		new Uni6Exe10();
+	}
 
-  public static void main(String[] args) {
-    new Uni6Exe10();
-  }
 }
