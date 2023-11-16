@@ -13,7 +13,7 @@ public class DaltonSolanoReis_2 {
     vetLer(vetA,"VetA", teclado);
     vetLer(vetB,"VetB", teclado);
     vetSoma(vetA, vetB, vetSoma);
-    vetOrdenar(vetSoma); //FIXME:
+    vetOrdenar(vetSoma);
     vetEscrever(vetSoma);
 
     teclado.close();
