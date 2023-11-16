@@ -34,6 +34,16 @@ public class DaltonSolanoReis_2 {
   }
 
   private void vetOrdenar(int vetSoma[]) {
+		int bolha;
+		for (int i = 0; i < vetSoma.length - 1; i++) {
+			if (vetSoma[i] > vetSoma[i + 1]) {
+				bolha = vetSoma[i];
+				vetSoma[i] = vetSoma[i + 1];
+				vetSoma[i + 1] = bolha;
+				i = -1;
+			}
+		}
+		System.out.println("_ valores ordenados.");
 
   }
 
