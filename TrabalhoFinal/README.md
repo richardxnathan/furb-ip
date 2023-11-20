@@ -31,6 +31,8 @@ Com base nas seguintes descrições, implemente o problema do: **Caça Palavras*
 
 Ter uma classe descrita a seguir …  
 
+![diagrama](imgs/diagrama.png)
+
 ## CacaPalavras
 
 - o único import que deve ser usado é *java.util.Scanner*;  
