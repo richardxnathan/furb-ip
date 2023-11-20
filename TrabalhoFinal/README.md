@@ -2,9 +2,9 @@
 
 Algumas anotações feitas na aula: [aula.md](./aula.md "aula.md")  
 
-Prazo máximo para definir as equipes: 22/06/2022.  
-Prazo máximo para apresentação do trabalho: 04/07/2022 (segunda).  
-Equipes: mínimo de dois, e máximo com três alunos.  
+Prazo máximo para definir as equipes: 23/11/2023.  
+Prazo máximo para apresentação do trabalho: 04/12/2023 (segunda).  
+Equipes: mínimo de dois, e máximo com quatro alunos.  
 
 ## Definições
 
