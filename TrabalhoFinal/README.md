@@ -36,7 +36,7 @@ Ter uma classe descrita a seguir …
 - o único import que deve ser usado é *java.util.Scanner*;  
 - o construtor declara a única ocorrência do objeto *teclado* da classe *Scanner* para permitir ler dados do console usando o teclado;
 - o método main só instância o construtor desta classe;  
-- o construtor declara todas as matrizes (*palavras* e *mapa);  
+- o construtor declara todas as matrizes (*palavras* e *mapa*);  
 - a matriz *palavras* tem o tamanho 5 por 2;  
 - a matriz *mapa* tem o tamanho 10 por 5;  
 - o construtor chama o método *palavrasEntrada*;  
