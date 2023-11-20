@@ -47,7 +47,7 @@ Ter uma classe descrita a seguir …
   - opção 2: chamar o método *mapaImprimir*;  
   - opção 3: chamar o método *palavrasRespostas*;  
   - opção 4: sair;  
-  - consistir se foi digitado uma opção errada "Opção ERRADA!...".
+  - consistir se foi digitado uma opção errada "Opção ERRADA, tente novamente!...".
 
 O método *palavrasEntrada* deve atribuir as palavras abaixo à matriz *palavras*:
 
