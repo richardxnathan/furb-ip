@@ -39,7 +39,7 @@ Ter uma classe descrita a seguir …
 - o construtor declara todas as matrizes (*palavras* e *mapa*);  
 - a matriz *palavras* tem o tamanho 5 por 2;  
 - a matriz *mapa* tem o tamanho 10 por 5;  
-- o construtor chama o método *palavrasEntrada*;  
+- o construtor chama o método *palavrasEntrada* para atribuir as palavras a matriz *palavras*;  
 - o construtor chama o método *mapaEntrada* para atribuir os caráteres a matriz *mapa*;  
 - o construtor chama o método *mapaPesquisa* para fazer a pesquisa das *palavras* no *mapa* e armazenar em *palavras* se achou a palavra no *mapa*;  
 - o construtor controla o "_____ Menu: Caça Palavras _____", que deve ser implementado usando um ```Do/While``` e seguir as mensagens como demostrado no exemplo de execução. As opções deste menu são:  
