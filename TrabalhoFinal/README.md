@@ -31,7 +31,9 @@ Com base nas seguintes descrições, implemente o problema do: **Caça Palavras*
 
 Ter uma classe descrita a seguir …  
 
-![diagrama](imgs/diagrama.png)
+![diagrama](svg/_._src/CacaPalavras.svg)  
+
+![iconesVisibilidade](imgs/iconesVisibilidade.png)  
 
 ## CacaPalavras
 
